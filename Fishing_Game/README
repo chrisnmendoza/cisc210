@@ -1,1 +1,10 @@
-This project was completed for CISC210
+1. Name and Student ID: Christopher-Neil Mendoza 702472924
+2. As the only person in the project, I did all of it
+3. This is a fishing game where you must catch five fish using your fishing bobber and avoid the sharks to win the game.
+It utilizes the gyroscope and joystick functions of the Raspberry Pie sense hat to control the fishing rod.
+4. At the start of the game the player is told to "GO" cast out their fishing rod by tilting the Raspberry pie up then down.
+Afterwards, the player controls the red fishing bobber using the joystick, actively trying to avoid the dark gray sharks.
+Whilst avoiding being eaten by the sharks, the player must also catch the yellow fish by positioning the bobber on top of
+the fish, and tilting the Raspberry Pie upwards to "reel" it in. Another fish will spawn, and the player must keep catching
+fish until they catch 5. Once the game is over, either by dying from the shark or catching five fish, the total amount of fish
+caught, the "score", will be displayed. 
