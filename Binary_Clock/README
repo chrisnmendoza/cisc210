@@ -1,3 +1,14 @@
 Partner's Names: Christopher-Neil Mendoza
 UD Emails: mendozac@udel.edu
 Student ID Numbers: 702472924
+
+This code displays a "binary clock" on the leds of the Raspberry Pi Sense Hat.
+
+The following files were provided to me by the Professor of the class:
+example
+example.c
+example.o
+fakebuffer.c
+fakebuffer.o
+framebuffer.h
+framebuffer.o
