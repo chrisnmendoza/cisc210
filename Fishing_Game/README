@@ -8,3 +8,10 @@ Whilst avoiding being eaten by the sharks, the player must also catch the yellow
 the fish, and tilting the Raspberry Pie upwards to "reel" it in. Another fish will spawn, and the player must keep catching
 fish until they catch 5. Once the game is over, either by dying from the shark or catching five fish, the total amount of fish
 caught, the "score", will be displayed. 
+
+The following files were given to me by the professor:
+display.h
+example.c
+framebuffer.h
+gyro
+gyro.c
